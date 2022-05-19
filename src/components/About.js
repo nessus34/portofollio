@@ -4,16 +4,38 @@ import profile from '../assets/profile.png';
 const About = () => {
     return (
         <section className='about'>
-            <h2>About Me</h2>
+            <h2>A propos</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+            Hello ✌️, je m'appelle Tristan UCCELLO, j'ai 23 ans et je vis en France.
+
+            Je suis un développeur front junior curieux et passionné 💻.
+            J'aime voyager et collaborer avec les gens.
+            Je fais du sport .
+
+            Compétences :
+
+            Front-End :
+            ReactJs & Redux 
+            Javascript 
+            HTML, CSS
+            Animations
+            Next.js
+            
+            blockchain: 
+            Solidity
+
+
+
+            ...
+            Tools : 
+            Api 
+            NPM 
+            NPX 
+            GitHub 
+            
+            ...
+            Graphisme :
+            Figma
             </p>
         </section>
     );
